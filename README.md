@@ -1,0 +1,142 @@
+# HTML
+
+- HyperText
+    - Texto puros, livros, revistas, jornais
+    - Links: acessar outros documentos
+    - Imagens, vídeos, áudios
+- Markup
+    - Marcação
+    - Tags: <a> Link </a>
+    - Atributos: <a href="https://rockeatseat.com.br"></a>
+    - Globais: id, class, ...
+- Language
+    - Linguagem
+    - Sintaxe: maneira de escrever
+
+
+# HTTP
+
+- HyperText
+- Transfer
+    - Transferência
+- Protocol
+    - Protocolo
+    - Conjunto de Regras
+#### Características
+- Headers (Cabeçalhos):
+  - Intruções/Informações extras para cada chamada
+- Ações: 
+  - Get, 
+  - Post, 
+  - Patch/Put, 
+  - Delete
+
+
+
+# URL
+
+- Uniform
+    - Uniforme
+- Resourse
+    - Recurso
+- Locator
+    - Localizador
+Econtrar um Recurso (html, css, js, pdf, png, jpg, mp4, mp3 ...)
+
+
+# IP
+
+- Internet
+    - Rede Mundial de Computadores
+- Protocol
+    - Conjunto de Regras
+Endereço do Computador
+rocketseat.com.br (domínio)
+123.32.1.23 (ip)
+
+
+# DNS
+
+- Domain
+    - Domínio
+- Name
+    - Nome
+- Server
+    - Servidor
+
+
+# CSS
+
+- Cascading
+  - Cascata
+  - Regras das Escritas
+  - Hierarquia
+  - Especificidade
+- Style
+  - Estilo
+- Sheet
+  - Folha
+
+De um arquivo terá na sintaxe, declarações, propriedades e valores.
+A partir disso, o HTML é impactado visualmente.
+
+# JS
+
+- Linguagem de Programação
+- Browsers
+- Input -> Process -> Output
+- Variáveis
+- Function
+  - Agrupamento e Reuso de Código
+  - Sequência Lógica
+  - Saída
+- Gemini (IA): Esperar um resposta
+- Mexer no meu navegador
+- Estrutura de Dados
+- Estrutura de Decisão
+- Algoritmo: sequência de passos de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
+- Lógica (Pensamento Computacional)
+  - Abstração
+  - Decomposição
+  - Algoritmo
+  - Reconhecimento de Padrão
+- Tipos de Dados
+  - Number (números)
+  - String (" ", ' ', ` `)
+  - Boolean ( true | false)
+  - Objects
+
+# API
+
+- Application
+- Programing
+- Interface
+
+Usa JSON: JavaScript Object Notation
+
+
+# CDN
+
+- Content
+- Delivery
+- Network
+
+
+# LLM
+- Large
+- Language
+- Model
+- Gemini ChatGPT, Claude
+
+
+# Agentes AI
+
+- Tools (ferramentas):
+  - permitem uso de código, ou apps, ou qualquer informação extra
+- Melhor Contexto
+
+
+# Engenharia de Prompt
+- One Shot: Uma única pergunta sem muito contexto
+- Few Shot: É apresentaodo exemplos do que se espera
+- Chain of Thought: Cadeia de Pensamento para a IA responder gradativamente conforme instrução
