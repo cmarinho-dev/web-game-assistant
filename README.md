@@ -4,7 +4,6 @@ Este é projeto que foi desenvolvido a partir de um evento gratuito da Rockeatse
 Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
 
 ![hq720](https://github.com/user-attachments/assets/6dc9a9c0-ea99-4461-9fff-e390f43f4790)
-
 <img width="686" height="auto" alt="image" src="https://github.com/user-attachments/assets/29c444e9-9cea-46ac-9775-46318e1b972c" />
 
 # Página Web do Projet
