@@ -10,7 +10,9 @@ Neste projeto foi realizado a integração da `IA do Gemini` para que o usuário
 # Visualizar o Projeto
 Visualize o projeto num deploy realizado na `Vercel`
 
-(Link da Página do Projeto)[https://nlw-agents-trilha-iniciante.vercel.app/]
+
+[Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
+
 
 # Assuntos Abordados no Evento
 Durante o evento foi abordado diversos tópicos, alguns destes seguem abaixo com a definição de suas siglas e algumas características (um pequeno resumo)
