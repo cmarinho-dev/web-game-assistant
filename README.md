@@ -1,9 +1,9 @@
 # Sobre o Projeto
 Este projeto foi desenvolvido a partir de um evento gratuito da Rockeatseat - O NLW Agents
 
-Neste projeto foi realizado a integração da `IA do Gemini` para que o usuário consiga ser ajudado em jogos online
+Neste projeto foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
 
-<img width="722" height="67" alt="{998A34A3-B2AC-4A4F-8CD6-835474911160}" src="https://github.com/user-attachments/assets/b2f15d6b-9f06-445c-9dfc-28368d74ceb8" />
+<img width="400" height="20" style="border-radius: 20px" alt="{998A34A3-B2AC-4A4F-8CD6-835474911160}" src="https://github.com/user-attachments/assets/b2f15d6b-9f06-445c-9dfc-28368d74ceb8" />
 
 
 # Assuntos Abordados no Evento
