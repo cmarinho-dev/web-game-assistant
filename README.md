@@ -1,4 +1,4 @@
-# Sobre
+# ℹ️ Sobre
 Este é projeto que foi desenvolvido a partir de um evento gratuito da Rockeatseat - O NLW Agents
 
 Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
@@ -6,15 +6,31 @@ Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga 
 ![hq720](https://github.com/user-attachments/assets/6dc9a9c0-ea99-4461-9fff-e390f43f4790)
 <img width="686" height="auto" alt="image" src="https://github.com/user-attachments/assets/29c444e9-9cea-46ac-9775-46318e1b972c" />
 
-# Página Web do Projeto
+# 🌍 Página Web do Projeto
 Visualize o projeto num deploy realizado na `Vercel`
+   👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
+
+## 🔑 Como obter a chave da API do Gemini
+
+Para que a inteligência artificial do projeto funcione corretamente, você precisará de uma chave da API do **Gemini**, disponibilizada gratuitamente pelo Google.
+
+### Passo a passo:
+
+1. Acesse o site oficial do Gemini Developers:  
+   👉 [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+
+2. Faça login com sua conta Google.
+
+3. Aceite os termos de uso da API.
+
+4. Clique em **"Create API key"** (Criar chave de API).
+
+5. Copie a chave gerada.
+
+6. Insira essa chave no campo solicitado no site.
 
 
-[Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
-
-
-
-# Assuntos Abordados no Evento
+# 📖 Assuntos Abordados no Evento
 Durante o evento foi abordado diversos tópicos, alguns destes seguem abaixo com a definição de suas siglas e algumas características (um pequeno resumo)
 
 
