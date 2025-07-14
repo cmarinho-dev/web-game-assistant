@@ -9,10 +9,10 @@ Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga 
 # 🌍 Página Web do Projeto
 Visualize o projeto num deploy realizado na `Vercel`
 
-   👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
+👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
 
-- ⚠️ É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto
-   - Siga os passos abaixo para obtê-la
+⚠️ É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto
+- Siga os passos abaixo para obtê-la
    
 
 ## 🔑 Como obter a chave da API do Gemini
