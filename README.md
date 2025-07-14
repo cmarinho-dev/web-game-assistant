@@ -4,7 +4,8 @@ Este é um projeto que foi desenvolvido a partir de um evento gratuito da Rockea
 Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
 
 ![hq720](https://github.com/user-attachments/assets/6dc9a9c0-ea99-4461-9fff-e390f43f4790)
-<img width="686" height="auto" alt="image" src="https://github.com/user-attachments/assets/29c444e9-9cea-46ac-9775-46318e1b972c" /> <br><br>
+<img width="686" height="auto" alt="{F6FD968C-145C-4A92-BE12-45C6349B010E}" src="https://github.com/user-attachments/assets/f93f6f2e-d564-4cc8-88ea-d47e41728234"/> <br><br>
+
 
 # 🌍 Página Web do Projeto
 Visualize o projeto num deploy realizado na `Vercel`
