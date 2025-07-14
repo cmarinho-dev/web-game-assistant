@@ -4,16 +4,15 @@ Este é um projeto que foi desenvolvido a partir de um evento gratuito da Rockea
 Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
 
 ![hq720](https://github.com/user-attachments/assets/6dc9a9c0-ea99-4461-9fff-e390f43f4790)
-<img width="686" height="auto" alt="image" src="https://github.com/user-attachments/assets/29c444e9-9cea-46ac-9775-46318e1b972c" />
+<img width="686" height="auto" alt="image" src="https://github.com/user-attachments/assets/29c444e9-9cea-46ac-9775-46318e1b972c" /> <br><br>
 
 # 🌍 Página Web do Projeto
 Visualize o projeto num deploy realizado na `Vercel`
 
-👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
+👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/) <br><br>
 
 ⚠️ É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto
-- Siga os passos abaixo para obtê-la
-   
+- Siga os passos abaixo para obtê-la <br><br>
 
 ## 🔑 Como obter a chave da API do Gemini
 
@@ -32,10 +31,10 @@ Para que a inteligência artificial do projeto funcione corretamente, você prec
 
 5. Copie a chave gerada.
 
-6. Insira essa chave no campo solicitado no site.
+6. Insira essa chave no campo solicitado no site. <br><br>
 
 
-# 📖 Assuntos Abordados no Evento
+# 📖 Assuntos Abordados nas Aulas
 Durante o evento foi abordado diversos tópicos, alguns destes seguem abaixo com a definição de suas siglas e algumas características (um pequeno resumo)
 
 
