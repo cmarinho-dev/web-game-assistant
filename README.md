@@ -1,4 +1,6 @@
-# HTML
+# Durante o evento foi abordado diverso tópicos, alguns dos abordados seguem abaixo em seu resumo
+
+## HTML
 
 - HyperText
     - Texto puros, livros, revistas, jornais
@@ -14,7 +16,7 @@
     - Sintaxe: maneira de escrever
 
 
-# HTTP
+## HTTP
 
 - HyperText
 - Transfer
@@ -33,7 +35,7 @@
 
 
 
-# URL
+## URL
 
 - Uniform
     - Uniforme
@@ -44,7 +46,7 @@
 Econtrar um Recurso (html, css, js, pdf, png, jpg, mp4, mp3 ...)
 
 
-# IP
+## IP
 
 - Internet
     - Rede Mundial de Computadores
@@ -55,7 +57,7 @@ rocketseat.com.br (domínio)
 123.32.1.23 (ip)
 
 
-# DNS
+## DNS
 
 - Domain
     - Domínio
@@ -65,7 +67,7 @@ rocketseat.com.br (domínio)
     - Servidor
 
 
-# CSS
+## CSS
 
 - Cascading
   - Cascata
@@ -80,7 +82,7 @@ rocketseat.com.br (domínio)
 De um arquivo terá na sintaxe, declarações, propriedades e valores.
 A partir disso, o HTML é impactado visualmente.
 
-# JS
+## JS
 
 - Linguagem de Programação
 - Browsers
@@ -106,7 +108,7 @@ A partir disso, o HTML é impactado visualmente.
   - Boolean ( true | false)
   - Objects
 
-# API
+## API
 
 - Application
 - Programing
@@ -115,28 +117,28 @@ A partir disso, o HTML é impactado visualmente.
 Usa JSON: JavaScript Object Notation
 
 
-# CDN
+## CDN
 
 - Content
 - Delivery
 - Network
 
 
-# LLM
+## LLM
 - Large
 - Language
 - Model
 - Gemini ChatGPT, Claude
 
 
-# Agentes AI
+## Agentes AI
 
 - Tools (ferramentas):
   - permitem uso de código, ou apps, ou qualquer informação extra
 - Melhor Contexto
 
 
-# Engenharia de Prompt
+## Engenharia de Prompt
 - One Shot: Uma única pergunta sem muito contexto
 - Few Shot: É apresentaodo exemplos do que se espera
 - Chain of Thought: Cadeia de Pensamento para a IA responder gradativamente conforme instrução
