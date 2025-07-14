@@ -14,6 +14,7 @@ Visualize o projeto num deploy realizado na `Vercel`
 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
 
 
+<br>
 # Assuntos Abordados no Evento
 Durante o evento foi abordado diversos tópicos, alguns destes seguem abaixo com a definição de suas siglas e algumas características (um pequeno resumo)
 
