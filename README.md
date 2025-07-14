@@ -1,5 +1,5 @@
 # ℹ️ Sobre
-Este é projeto que foi desenvolvido a partir de um evento gratuito da Rockeatseat - O NLW Agents
+Este é um projeto que foi desenvolvido a partir de um evento gratuito da Rockeatseat - O NLW Agents
 
 Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
 
@@ -8,6 +8,7 @@ Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga 
 
 # 🌍 Página Web do Projeto
 Visualize o projeto num deploy realizado na `Vercel`
+   
    👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/)
 
 ## 🔑 Como obter a chave da API do Gemini
