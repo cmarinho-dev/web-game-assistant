@@ -12,12 +12,16 @@ Visualize o projeto num deploy realizado na `Vercel`
 
 👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/) <br><br>
 
-⚠️ É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto
-- Siga os passos abaixo para obtê-la <br><br>
+
+> [!WARNING]
+> É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto <br>
+> Siga os passos abaixo para obtê-la <br><br>
+
 
 ## 🔑 Como obter a chave da API do Gemini
 
 Para que a inteligência artificial do projeto funcione corretamente, você precisará de uma chave da API do **Gemini**, disponibilizada gratuitamente pelo Google.
+
 
 ### Passo a passo:
 
@@ -32,7 +36,7 @@ Para que a inteligência artificial do projeto funcione corretamente, você prec
 
 5. Copie a chave gerada.
 
-6. Insira essa chave no campo solicitado no site. <br><br>
+6. Insira essa chave no campo solicitado no site deste projeto. <br><br>
 
 
 # 📖 Assuntos Abordados nas Aulas
