@@ -1,187 +1,84 @@
-# ℹ️ Sobre
-Este é um projeto que foi desenvolvido a partir de um evento gratuito da Rockeatseat - O NLW Agents
-
-Nele foi realizado a integração da `IA do Gemini` para que o usuário consiga pedir ajuda para melhorar como jogador em jogos online
-
+<div align="center">
+   
 ![hq720](https://github.com/user-attachments/assets/6dc9a9c0-ea99-4461-9fff-e390f43f4790)
 <img width="686" height="auto" alt="{F6FD968C-145C-4A92-BE12-45C6349B010E}" src="https://github.com/user-attachments/assets/f93f6f2e-d564-4cc8-88ea-d47e41728234"/> <br><br>
+   
+# Web Game Assistant
 
+[Demo Online](#demo-online) • [Como Usar](#como-usar) • [Como Obter a Chave da API](#como-obter-a-chave-da-api-do-gemini)
 
-# 🌍 Página Web do Projeto
-Visualize o projeto num deploy realizado na `Vercel`
+![HTML5](https://img.shields.io/badge/HTML5-25.5%25-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-31.9%25-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-42.6%25-F7DF1E?logo=javascript&logoColor=black)
+![Gemini](https://img.shields.io/badge/Google-Gemini%20AI-8E75B2?logo=googlegemini&logoColor=white)
+![Deploy](https://img.shields.io/badge/deploy-Vercel-black?logo=vercel&logoColor=white)
 
-👉 [Link da Página do Projeto](https://nlw-agents-trilha-iniciante.vercel.app/) <br><br>
+</div>
 
+---
 
-> [!WARNING]
-> É necessário ter uma `Chave de API do Gemini` para usar a IA do projeto <br>
-> Siga os passos abaixo para obtê-la <br><br>
+### Sumário
+- [Sobre](#sobre)
+- [Demo Online](#demo-online)
+- [Como Obter a Chave da API do Gemini](#como-obter-a-chave-da-api-do-gemini)
+- [Como Usar](#como-usar)
+- [Tecnologias](#tecnologias)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 
+# Sobre
 
-## 🔑 Como obter a chave da API do Gemini
+**Web Game Assistant** é um projeto construído durante o **NLW Agents**, evento gratuito da [Rocketseat](https://www.rocketseat.com.br/). A aplicação integra a **IA do Gemini** (Google) para funcionar como um assistente que ajuda jogadores a melhorarem sua performance em jogos online, respondendo dúvidas e dando dicas diretamente pelo navegador.
 
-Para que a inteligência artificial do projeto funcione corretamente, você precisará de uma chave da API do **Gemini**, disponibilizada gratuitamente pelo Google.
+# Demo Online
 
+O projeto está publicado na Vercel e pode ser testado diretamente aqui:
 
-### Passo a passo:
+👉 [nlw-agents-trilha-iniciante.vercel.app](https://nlw-agents-trilha-iniciante.vercel.app/)
 
-1. Acesse o site oficial do Gemini Developers:  
-   👉 [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
+> ⚠️ Para usar a IA é necessário informar sua própria **chave de API do Gemini** (veja abaixo como obter uma gratuitamente).
 
+# Como Obter a Chave da API do Gemini
+
+1. Acesse o [Google AI Studio](https://aistudio.google.com/app/apikey).
 2. Faça login com sua conta Google.
-
 3. Aceite os termos de uso da API.
-
-4. Clique em **"Create API key"** (Criar chave de API).
-
+4. Clique em **"Create API key"**.
 5. Copie a chave gerada.
+6. Cole a chave no campo solicitado na página do projeto.
 
-6. Insira essa chave no campo solicitado no site deste projeto. <br><br>
+# Como Usar
 
+Como o projeto é totalmente client-side (HTML, CSS e JavaScript puros), não há build nem dependências de backend para rodar localmente:
 
-# 📖 Assuntos Abordados nas Aulas
-Durante o evento foi abordado diversos tópicos, alguns destes seguem abaixo com a definição de suas siglas e algumas características (um pequeno resumo)
+```sh
+git clone https://github.com/cmarinho-dev/web-game-assistant.git
+cd web-game-assistant
+```
 
+Basta abrir o arquivo `index.html` no navegador (ou servir a pasta com uma extensão como Live Server), informar sua chave da API do Gemini quando solicitado e começar a usar o assistente.
 
-## HTML
+# Tecnologias
 
-- HyperText
-    - Texto puros, livros, revistas, jornais
-    - Links: acessar outros documentos
-    - Imagens, vídeos, áudios
-- Markup
-    - Marcação
-    - Tags: <a> Link </a>
-    - Atributos: <a href="https://rockeatseat.com.br"></a>
-    - Globais: id, class, ...
-- Language
-    - Linguagem
-    - Sintaxe: maneira de escrever
+- **HTML5** — estrutura da página;
+- **CSS3** — estilização da interface;
+- **JavaScript** — lógica da aplicação e integração com a API do Gemini;
+- **Gemini API** — inteligência artificial responsável pelas respostas do assistente;
+- **Vercel** — hospedagem do deploy.
 
+# Estrutura do Projeto
 
-## HTTP
+```
+web-game-assistant/
+├── assets/        # Imagens e recursos estáticos
+├── index.html     # Página principal
+├── script.js      # Lógica da aplicação e chamadas à API do Gemini
+└── style.css      # Estilos da interface
+```
 
-- HyperText
-- Transfer
-    - Transferência
-- Protocol
-    - Protocolo
-    - Conjunto de Regras
-#### Características
-- Headers (Cabeçalhos):
-  - Intruções/Informações extras para cada chamada
-- Ações: 
-  - Get, 
-  - Post, 
-  - Patch/Put, 
-  - Delete
+---
 
+<div align="center">
 
+Projeto desenvolvido durante o NLW Agents da Rocketseat 🚀
 
-## URL
-
-- Uniform
-    - Uniforme
-- Resourse
-    - Recurso
-- Locator
-    - Localizador
-Econtrar um Recurso (html, css, js, pdf, png, jpg, mp4, mp3 ...)
-
-
-## IP
-
-- Internet
-    - Rede Mundial de Computadores
-- Protocol
-    - Conjunto de Regras
-Endereço do Computador
-rocketseat.com.br (domínio)
-123.32.1.23 (ip)
-
-
-## DNS
-
-- Domain
-    - Domínio
-- Name
-    - Nome
-- Server
-    - Servidor
-
-
-## CSS
-
-- Cascading
-  - Cascata
-  - Regras das Escritas
-  - Hierarquia
-  - Especificidade
-- Style
-  - Estilo
-- Sheet
-  - Folha
-
-De um arquivo terá na sintaxe, declarações, propriedades e valores.
-A partir disso, o HTML é impactado visualmente.
-
-## JS
-
-- Linguagem de Programação
-- Browsers
-- Input -> Process -> Output
-- Variáveis
-- Function
-  - Agrupamento e Reuso de Código
-  - Sequência Lógica
-  - Saída
-- Gemini (IA): Esperar um resposta
-- Mexer no meu navegador
-- Estrutura de Dados
-- Estrutura de Decisão
-- Algoritmo: sequência de passos de maneira ordenada, a fim de chegar a alguma conclusão (limitada)
-- Lógica (Pensamento Computacional)
-  - Abstração
-  - Decomposição
-  - Algoritmo
-  - Reconhecimento de Padrão
-- Tipos de Dados
-  - Number (números)
-  - String (" ", ' ', ` `)
-  - Boolean ( true | false)
-  - Objects
-
-## API
-
-- Application
-- Programing
-- Interface
-
-Usa JSON: JavaScript Object Notation
-
-
-## CDN
-
-- Content
-- Delivery
-- Network
-
-
-## LLM
-- Large
-- Language
-- Model
-- Gemini ChatGPT, Claude
-
-
-## Agentes AI
-
-- Tools (ferramentas):
-  - permitem uso de código, ou apps, ou qualquer informação extra
-- Melhor Contexto
-
-
-## Engenharia de Prompt
-- One Shot: Uma única pergunta sem muito contexto
-- Few Shot: É apresentaodo exemplos do que se espera
-- Chain of Thought: Cadeia de Pensamento para a IA responder gradativamente conforme instrução
+</div>
